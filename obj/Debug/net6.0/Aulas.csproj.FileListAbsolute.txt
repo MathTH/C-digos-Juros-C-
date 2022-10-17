@@ -1,0 +1,15 @@
+C:\Users\matheus.ferreira\Projeto\Aulas\bin\Debug\net6.0\Aulas.exe
+C:\Users\matheus.ferreira\Projeto\Aulas\bin\Debug\net6.0\Aulas.deps.json
+C:\Users\matheus.ferreira\Projeto\Aulas\bin\Debug\net6.0\Aulas.runtimeconfig.json
+C:\Users\matheus.ferreira\Projeto\Aulas\bin\Debug\net6.0\Aulas.dll
+C:\Users\matheus.ferreira\Projeto\Aulas\bin\Debug\net6.0\Aulas.pdb
+C:\Users\matheus.ferreira\Projeto\Aulas\obj\Debug\net6.0\Aulas.csproj.AssemblyReference.cache
+C:\Users\matheus.ferreira\Projeto\Aulas\obj\Debug\net6.0\Aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.ferreira\Projeto\Aulas\obj\Debug\net6.0\Aulas.AssemblyInfoInputs.cache
+C:\Users\matheus.ferreira\Projeto\Aulas\obj\Debug\net6.0\Aulas.AssemblyInfo.cs
+C:\Users\matheus.ferreira\Projeto\Aulas\obj\Debug\net6.0\Aulas.csproj.CoreCompileInputs.cache
+C:\Users\matheus.ferreira\Projeto\Aulas\obj\Debug\net6.0\Aulas.dll
+C:\Users\matheus.ferreira\Projeto\Aulas\obj\Debug\net6.0\refint\Aulas.dll
+C:\Users\matheus.ferreira\Projeto\Aulas\obj\Debug\net6.0\Aulas.pdb
+C:\Users\matheus.ferreira\Projeto\Aulas\obj\Debug\net6.0\Aulas.genruntimeconfig.cache
+C:\Users\matheus.ferreira\Projeto\Aulas\obj\Debug\net6.0\ref\Aulas.dll
